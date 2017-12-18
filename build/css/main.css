@@ -2,7 +2,7 @@
 	width: 350px;
 	height: 600px;
 	font-family: 'Noto Sans', sans-serif;
-	background: url(1.png);
+	background: url(../img/1.png);
 	background-size: 382px;
 	background-repeat: no-repeat;
 	margin-left: auto;
@@ -72,7 +72,7 @@ span.meta span {
 .users {
 	display: none;
 	width: 20px;
-	background: url(2.png);
+	background: url(../img/2.png);
 	background-size: 20px;
 	background-repeat: no-repeat;
 	padding-left: 30px;
@@ -82,7 +82,7 @@ span.meta span {
 .moments {
 	display: none;
 	width: 14px;
-	background: url(XXX.png);
+	background: url(../img/XXX.png);
 	background-size: 26px;
 	background-repeat: no-repeat;
 	padding-left: 35px;
@@ -93,7 +93,7 @@ span.meta span {
 	display: block;
 	width: 34px;
 	height: 30px;
-	background: url(3.png);
+	background: url(../img/3.png);
 	background-size: 30px;
 	background-repeat: no-repeat;
 	padding-left: 4px;
@@ -106,7 +106,7 @@ span.meta span {
 	display: block;
 	width: 34px;
 	height: 30px;
-	background: url(4.png);
+	background: url(../img/4.png);
 	background-size: 30px;
 	background-repeat: no-repeat;
 	padding-left: 4px;
@@ -136,7 +136,7 @@ span.meta span {
 
 .rate:nth-child(1) {
 	margin-left: 4px;
-	background: url(5.png);
+	background: url(../img/5.png);
 	background-size: 25px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -145,7 +145,7 @@ span.meta span {
 
 .rate:nth-child(3) {
 	margin-left: -4px;
-	background: url(heart.png);
+	background: url(../img/heart.png);
 	background-size: 25px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -162,7 +162,7 @@ span.meta span {
 	margin-top: 14px;
 	margin-left: -4px;
 
-	background: url(info.png);
+	background: url(../img/info.png);
 	background-size: 15px;
 	background-position: center;
 	background-repeat: no-repeat;

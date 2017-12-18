@@ -1,0 +1,41 @@
+{
+  "name": "safefs-swipey",
+  "version": "1.0.0",
+  "description": "SAFE-FS Tinder Apps",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldhariyanto/safefs-swipey.git"
+  },
+  "keywords": [
+    "Safe",
+    "FS"
+  ],
+  "author": "ronaldhariyanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldhariyanto/safefs-swipey/issues"
+  },
+  "homepage": "https://github.com/ronaldhariyanto/safefs-swipey#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babelify": "^8.0.0",
+    "body-parser": "^1.18.2",
+    "browserify": "^14.5.0",
+    "envfile": "^2.1.1",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-image": "^4.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "jquery": "^3.2.1",
+    "swiper": "^4.0.7",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
